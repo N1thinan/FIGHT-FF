@@ -3,8 +3,8 @@ Roblox Fighting game - https://www.roblox.com/games/5075462811
 
 A round based game, in every round you are deploy to a map complete the objective fighting all other people to win the game.
 
-Game modes list: 
-ARW(All random weapons) = everyone get different weapon. one left alive win!, 
+Game modes list: <br/>
+ARW(All random weapons) = everyone get different weapon. one left alive win!, <br/>
 FO(First one) = one left alive or comeplete the maze first get weapon to kill others and win!.
 
 Weapons: Diamond Sword, Heavy Knife, Knife, Kylo Ren's Crossguard Lightsaber
