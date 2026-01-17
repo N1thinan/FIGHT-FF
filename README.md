@@ -9,6 +9,6 @@ FO(First one) = one left alive or comeplete the maze first get weapon to kill ot
 
 Weapons: Diamond Sword, Heavy Knife, Knife, Kylo Ren's Crossguard Lightsaber
 
-Maps: Arena(ARW), City(ARW), Desert Village(ARW), Ancient Jungle(ARW), Maze Easy(FO), Rusty Parkour(FO).
+Maps: Lobby1, Arena(ARW), City(ARW), Desert Village(ARW), Ancient Jungle(ARW), Maze Easy(FO), Rusty Parkour(FO).
 
 Upcoming update: Reward system, AI monsters, story mode, custom mode. (and maybe gacha? and p2w system?). 
